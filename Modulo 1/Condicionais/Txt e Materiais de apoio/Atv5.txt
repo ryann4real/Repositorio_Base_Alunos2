@@ -1,0 +1,10 @@
+1. A logica da programação é a base para o desenvolvimento de softwares tendo um sequencias de passos para organizar ou resolver alguma tarefa.
+
+2. O Portugol é mais fácil que o python para os iniciantes por motivos ligados a linguagem natural
+
+3. Variáveis são como a base para que as variações de comandos podem ser lidos e feitos
+
+4. Cadeia: texto
+inteiro: números inteiros sem virgula ou algo do tipo
+real: todos os números fracionários e inteiros
+Lógico: Verdadeiro ou falso

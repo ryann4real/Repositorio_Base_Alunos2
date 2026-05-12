@@ -1,0 +1,3 @@
+//escreva() -> mostra texto na tela
+//leia() -> pega valores digitados no teclado
+// texto texto texto - Não é executado

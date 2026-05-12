@@ -1,0 +1,19 @@
+Dispositivos de saída:
+projetores
+impressoras
+monitores
+impressoras 3d
+fones de ouvidos
+Webcam
+
+Dispositivos de entrada:
+mouse
+teclado
+microfones
+adaptadores de internet
+Controle wireless
+
+Dispositivos de armazentamento:
+Pendrives
+hd externo
+dvds
